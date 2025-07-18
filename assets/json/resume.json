@@ -1,36 +1,41 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Jaleh Mahdavi, PhD",
+    "label": "Data Scientist with a PhD in Computer Engineering and 10+ years of experience leveraging Machine Learning, NLP, and Social Computing to explore and address real-world social and organizational problems.",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "Jaleh.Mahdavimoghaddam@gmail.com",
+    "url": "https://jaleh-mahdavi.github.io",
+    "summary": "Data science Expert ",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "city": "Toronto",
+      "countryCode": "CAN",
+      "region": "Ontario"
     },
-    "profiles": [
+      "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "jalehmahdavi",
+        "url": "www.linkedin.com/in/jalehmahdavi"
+      },
+      {
+        "network": "Google Scholar",
+        "username": "owdyPUMAAAAJ",
+        "url": "https://scholar.google.com/citations?user=owdyPUMAAAAJ&hl=en"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
+      "name": "Royal Bank of Canada, Toronto",
+      "position": "Senior Data Scientist, Team Lead",
+      "startDate": "2016-10",
+      "endDate": "2022-03",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "highlights": ["Partnered with HR business leaders to uncover analytical needs and deliver customized, data-driven solutions.",
+      "Developed large-scale datasets by consolidating data from RBC HR platform, employee surveys, Social Media, and external labor market sources.",
+      "Developed a skill retrieval engine and identified emerging skills by time series analysis and NLP techniques to build and attract future skills to ensure that RBC and the people remain relevant and competitive into the future.",
+      "Developed an employee attrition and scoring model to detect the probability of employee attrition using classical machine learning algorithms and deep learning techniques."
+      ]
     }
   ],
   "volunteer": [
