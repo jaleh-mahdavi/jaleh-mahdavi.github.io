@@ -24,13 +24,68 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "name": "Home",
+      "position": "Maternity Leave",
+      "url": "",
+      "startDate": "2023-08",
+      "endDate": "Present",
+       "summary": "Took maternity leave to care for my newborn; now re-engaging with full-time work and ready to bring fresh energy and perspective to new opportunities.",
       "highlights": ["Relativity"]
+    },
+    {
+      "name": "Toronto Metropolitan University, Toronto",
+      "position": "Associate Researcher",
+      "startDate": "2019-09",
+      "endDate": "2023-07",
+      "summary": "Uniquely sponsored by Royal Bank of Canada to bridge academic research and real-world application in people analytics, balancing full-time work at the bank with doctoral research in partnership with academia.",
+      "highlights": ["Collaborated with industry partners to conduct workforce analytics projects focused on skills evolution and well-being.",
+        "Applied machine learning, natural language processing, and statistical techniques to model the discussed topics on social media",
+        "Developed predictive models for time series forecasting purposes.",
+        "Presented research insights and findings to RBC leadership and key stakeholders and published in peer-reviewed journals."
+      ]
+    },
+      {
+      "name": "Toronto Metropolitan University, Toronto",
+      "position": "Postdoctoral Fellow",
+      "startDate": "2023-07",
+      "endDate": "2023-12",
+      "summary": "to be filled",
+      "highlights": ["Led people analytics research projects in collaboration with the University of Toronto.",
+        "Supervised graduate and undergraduate students in workforce-related data projects."
+      ]
+    },
+      {
+      "name": "Microsoft, Office of Applied Research, Toronto",
+      "position": "Applied Researcher",
+      "startDate": "2022-04",
+      "endDate": "2022-06",
+      "summary": "to be filled",
+      "highlights": ["Based on my expertise in the Future of Work domain, business requirements, and existing user research, I introduced and designed a new feature for Microsoft Loop to bridge the gap between research and products. This feature enables the workforce to complete micro-tasks when mobile or during low focus/attention.",
+        "Worked with the Human Understanding and Empathy team to detect the well-being of employees across demographics on survey data using qualitative and quantitative methods. The results of these two projects help employers obtain data-driven insights from their workforce and tune their strategies accordingly."
+      ]
+    },
+    {
+      "name": "Royal Bank of Canada, Toronto",
+      "position": "Senior Data Scientist, Team Lead",
+      "startDate": "2016-10",
+      "endDate": "2022-03",
+      "summary": "to be filled",
+      "highlights": ["Partnered with HR business leaders to uncover analytical needs and deliver customized, data-driven solutions.",
+      "Developed large-scale datasets by consolidating data from RBC HR platform, employee surveys, Social Media, and external labor market sources.",
+      "Developed a skill retrieval engine and identified emerging skills by time series analysis and NLP techniques to build and attract future skills to ensure that RBC and the people remain relevant and competitive into the future.",
+      "Developed an employee attrition and scoring model to detect the probability of employee attrition using classical machine learning algorithms and deep learning techniques."
+      ]
+    },
+        {
+      "name": "Serenova, Fredericton",
+      "position": "Developer Intern,",
+      "startDate": "2014-05",
+      "endDate": "2015-04",
+      "summary": "to be filled",
+      "highlights": ["Accelerated the process of testing by developing automated test scripts",
+        "Analyzed bugs and defects during the testing process",
+        "Documented test results for the software development team"
+      ]
     }
   ],
   "volunteer": [
