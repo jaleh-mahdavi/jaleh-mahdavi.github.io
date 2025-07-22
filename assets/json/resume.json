@@ -236,11 +236,39 @@
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Ontario Graduate Award (OGS)",
+      "date": "2022-2023",
+      "awarder": "Jointly funded by the Province of Ontario and the University of Toronto",
+      "url": "",
+      "summary": "$15,000 merit-based award granted in recognition of outstanding academic achievement."
+    },
+    {
+      "title": "Graduate Development Award",
+      "date": "2022-2023",
+      "awarder": "Toronto Metropolitan University",
+      "url": "",
+      "summary": "$4,000 scholarship based on demonstrated academic excellence and graduate-level achievement."
+    },
+    {
+      "title": "Graduate Fellowship",
+      "date": "2019-2022",
+      "awarder": "Toronto Metropolitan University",
+      "url": "",
+      "summary": "$24,000 in cumulative funding over three years for outstanding academic performance."
+    },
+      {
+      "title": "Globalink Research Award - UK Research and Innovation (UKRI)",
+      "date": "2021",
+      "awarder": "Mitacs",
+      "url": "",
+      "summary": "$6,000 for international Future-of-Work research"
+    },
+    {
+      "title": "Queen Elizabeth II Graduate Scholarship in Science & Technology",
+      "date": "2019-2020",
+      "awarder": "Toronto Metropolitan University",
+      "url": "",
+      "summary": "$15,000 awarded for graduate research excellence."
     }
   ],
   "certificates": [
