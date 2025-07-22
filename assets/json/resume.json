@@ -91,114 +91,92 @@
   "volunteer": [
     {
       "organization": "SocInfo’22 Conference",
-      "location": "",
       "position": "Reviewer",
       "url": "",
       "startDate": "2022",
       "endDate": "",
-      "summary": "Reviewer for the International Conference on Social Informatics (SocInfo’22), October 19-21, 2022, Glasgow, UK",
-      "highlights": [""]
+      "summary": "Reviewer for the International Conference on Social Informatics (SocInfo’22), October 19-21, 2022, Glasgow, UK"
     },
     {
       "organization": "CIKM Conference",
-      "location": "",
       "position": "Reviewer",
       "url": "",
       "startDate": "2022",
       "endDate": "",
-      "summary": "Reviewer for the 31st ACM International Conference on Information and Knowledge Management (CIKM), October 17-22, 2022, Atlanta, Georgia, USA.",
-      "highlights": [""]
+      "summary": "Reviewer for the 31st ACM International Conference on Information and Knowledge Management (CIKM), October 17-22, 2022, Atlanta, Georgia, USA."
     },
     {
       "organization": "ICWSM Conference",
-      "location": "",
       "position": "Reviewer",
       "url": "",
       "startDate": "2022",
       "endDate": "",
-      "summary": "Reviewer for the 16th International AAAI Conference on Web and Social Media (ICWSM), June 6-9, 2022, Atlanta, Georgia, USA.",
-      "highlights": [""]
+      "summary": "Reviewer for the 16th International AAAI Conference on Web and Social Media (ICWSM), June 6-9, 2022, Atlanta, Georgia, USA."
     },
     {
       "organization": "ECIR Conference",
-      "location": "",
       "position": "Reviewer",
       "url": "",
       "startDate": "2022",
       "endDate": "",
-      "summary": "Reviewer for the 44th European Conference in Information Retrieval (ECIR), April 10-14, 2022, Stavanger, Norway.",
-      "highlights": [""]
+      "summary": "Reviewer for the 44th European Conference in Information Retrieval (ECIR), April 10-14, 2022, Stavanger, Norway."
     },
     {
       "organization": "ACM SIGIR Conference",
-      "location": "",
       "position": "Reviewer",
       "url": "",
       "startDate": "2022",
       "endDate": "",
-      "summary": "Reviewer for the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), July 11-15, 2022, Madrid, Spain.",
-      "highlights": [""]
+      "summary": "Reviewer for the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), July 11-15, 2022, Madrid, Spain."
     },
     {
       "organization": "WWW Conference",
-      "location": "",
       "position": "Reviewer",
       "url": "",
       "startDate": "2022",
       "endDate": "",
-      "summary": "Reviewer for the Web Conference (WWW), 25-29 April 2022, Lyon, France.",
-      "highlights": [""]
+      "summary": "Reviewer for the Web Conference (WWW), 25-29 April 2022, Lyon, France."
     },
     {
       "organization": "TNSE Journal",
-      "location": "",
       "position": "Reviewer",
       "url": "",
       "startDate": "2021",
       "endDate": "",
-      "summary": "Reviewer for the IEEE Transactions on Network Science and Engineering (TNSE), January 2021.",
-      "highlights": [""]
+      "summary": "Reviewer for the IEEE Transactions on Network Science and Engineering (TNSE), January 2021."
     },
     {
       "organization": "IP&M Journal",
-      "location": "",
       "position": "Reviewer",
       "url": "",
       "startDate": "2021",
       "endDate": "",
-      "summary": "Reviewer for the Information Processing and Management Journal (IP&M), 2021.",
-      "highlights": [""]
+      "summary": "Reviewer for the Information Processing and Management Journal (IP&M), 2021."
     },
     {
       "organization": "MAISoN Workshop",
-      "location": "",
       "position": "Reviewer",
       "url": "",
       "startDate": "2020",
       "endDate": "",
-      "summary": "Reviewer for the 5th International Workshop on Mining Actionable Insights from Social Networks (MAISoN), October 19-23, 2020, Ireland.",
-      "highlights": [""]
+      "summary": "Reviewer for the 5th International Workshop on Mining Actionable Insights from Social Networks (MAISoN), October 19-23, 2020, Ireland."
     },
     {
       "organization": "EVOKE CASCON 2020 Conference",
-      "location": "",
       "position": "Reviewer",
       "url": "",
       "startDate": "2020",
       "endDate": "",
-      "summary": "Reviewer for the EVOKE CASCON 2020, November 10-13, 2020, Canada.",
-      "highlights": [""]
+      "summary": "Reviewer for the EVOKE CASCON 2020, November 10-13, 2020, Canada."
     },
     {
       "organization": "MISDOOM",
-      "location": "",
       "position": "Reviewer",
       "url": "",
       "startDate": "2020",
       "endDate": "",
-      "summary": "Reviewer for the Multidisciplinary International Symposium on Disinformation in Open Online Media (MISDOOM), October 26-27, 2020, Netherlands.",
-      "highlights": [""]
-    },
+      "summary": "Reviewer for the Multidisciplinary International Symposium on Disinformation in Open Online Media (MISDOOM), October 26-27, 2020, Netherlands."
+    }
   ],
    "education": [
     {
