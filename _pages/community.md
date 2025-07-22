@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /community/
-title: Community engagement and professional service
-description: 
+title: community
+description: Community engagement and professional service
 nav: true
 nav_order: 6
 ---
