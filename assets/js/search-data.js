@@ -30,9 +30,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-community-engagement-and-professional-service",
-          title: "Community engagement and professional service",
-          description: "",
+        },{id: "nav-community",
+          title: "community",
+          description: "Community engagement and professional service",
           section: "Navigation",
           handler: () => {
             window.location.href = "/community/";
