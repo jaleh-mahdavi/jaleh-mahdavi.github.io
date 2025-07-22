@@ -30,8 +30,8 @@ Peer Review Activities
 
 Data Science Activities
 ======
-Python Instructor, Royal Bank of Canada (RBC), July 2019 - Mar 2020, Toronto, Canada.
-Data Science Moderator, Toronto Machine Learning Society (TMLS), Nov 2018 - Nov 2019, Toronto, Canada.
-Steering Committee Member, Aggregate Intellect, May 2019 - Sep 2019, Toronto, Canada.
+* **Python Instructor**, Royal Bank of Canada (RBC), July 2019 - Mar 2020, Toronto, Canada.
+* **Data Science Moderator**, Toronto Machine Learning Society (TMLS), Nov 2018 - Nov 2019, Toronto, Canada.
+* **Steering Committee Member**, Aggregate Intellect, May 2019 - Sep 2019, Toronto, Canada.
 
 
