@@ -333,18 +333,30 @@
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Language and Tools",
       "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "icon": "",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Python",
+        "NoSQL (MongoDB)",
+        "SQL(MySQL, SQL Server, Teradata)",
+        "Git",
+        "R"
+      ]
+    },
+    {
+      "name": "ML Libraries & Frameworks",
+      "level": "Master",
+      "icon": "",
+      "keywords": [
+        "Scikit-learn",
+        "Pandas",
+        "NumPy",
+        "Matplotlib",
+        "Transformers"
       ]
     }
+    
   ],
   "languages": [
     {
