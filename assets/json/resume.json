@@ -176,6 +176,30 @@
       "startDate": "2020",
       "endDate": "",
       "summary": "Reviewer for the Multidisciplinary International Symposium on Disinformation in Open Online Media (MISDOOM), October 26-27, 2020, Netherlands."
+    },
+    {
+      "organization": "Royal Bank of Canada",
+      "position": "Python Instructor",
+      "url": "",
+      "startDate": "2019-07",
+      "endDate": "2020-03",
+      "summary": "Designed programming and data analysis curriculum and trained non-technical employees."
+    },
+    {
+      "organization": "Toronto Machine Learning Society (TMLS)",
+      "position": "Data Science Moderator",
+      "url": "",
+      "startDate": "2018-10",
+      "endDate": "2019-10",
+      "summary": "Moderated advanced NLP and ML technical and applied case studies & talks."
+    },
+    {
+      "organization": "Aggregate Intellect",
+      "position": "Steering Committee Member",
+      "url": "",
+      "startDate": "2019-05",
+      "endDate": "2019-09",
+      "summary": "Identified relevant publications to the community and invited their authors to discuss their papers. Also, reviewed the presentation content and facilitated the talks at the event."
     }
   ],
    "education": [
