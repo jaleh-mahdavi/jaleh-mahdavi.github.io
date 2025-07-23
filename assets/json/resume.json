@@ -325,29 +325,7 @@
       "summary": "$15,000 awarded for graduate research excellence."
     }
   ],
-  "certificates": [
-    {
-      "name": "Designing Semantic Technology Proof_of_Concept",
-      "date": "2018",
-      "issuer": "Ontotext",
-      "url": "",
-      "icon": ""
-    },
-    {
-      "name": "DataRobot Essentials for RBC",
-      "date": "2018",
-      "issuer": "DataRobot",
-      "url": "",
-      "icon": ""
-    },
-    {
-      "name": "HDP Developer: Enterprise Apache Spark ",
-      "date": "2017",
-      "issuer": "Hortonworks",
-      "url": "",
-      "icon": ""
-    }
-  ],
+
   "publications": [
     {
       "name": "Towards inclusive futures for worker wellbeing",
@@ -395,6 +373,29 @@
     {
       "language": "Persian",
       "fluency": "Native Speaker",
+      "icon": ""
+    }
+  ],
+    "certificates": [
+    {
+      "name": "Designing Semantic Technology Proof_of_Concept",
+      "date": "2018",
+      "issuer": "Ontotext",
+      "url": "",
+      "icon": ""
+    },
+    {
+      "name": "DataRobot Essentials for RBC",
+      "date": "2018",
+      "issuer": "DataRobot",
+      "url": "",
+      "icon": ""
+    },
+    {
+      "name": "HDP Developer: Enterprise Apache Spark ",
+      "date": "2017",
+      "issuer": "Hortonworks",
+      "url": "",
       "icon": ""
     }
   ]
