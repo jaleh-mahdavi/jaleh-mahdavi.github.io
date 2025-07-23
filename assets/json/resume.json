@@ -88,6 +88,66 @@
       ]
     }
   ],
+   "education": [
+    {
+      "institution": "Toronto Metropolitan University",
+      "location": "Toronto, Canada",
+      "area": "Electrical & Computer Engineering",
+      "studyType": "Ph.D.",
+      "startDate": "2019-09",
+      "endDate": "2023-07",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "University of New Brunswick",
+      "location": "Fredricton, Canada",
+      "area": "Computer Science",
+      "studyType": "M.Sc.",
+      "startDate": "2013-09",
+      "endDate": "2016-05",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Azad University of Tehran, North Branch",
+      "location": "Tehran, Iran",
+      "area": "Software Engineering",
+      "studyType": "B.Sc.",
+      "startDate": "2008-09",
+      "endDate": "2012-08",
+      "score": "",
+      "courses": []
+    }
+  ],
+
+    "skills": [
+    {
+      "name": "Language and Tools",
+      "level": "Master",
+      "icon": "",
+      "keywords": [
+        "Python",
+        "NoSQL (MongoDB)",
+        "SQL(MySQL, SQL Server, Teradata)",
+        "Git",
+        "R"
+      ]
+    },
+    {
+      "name": "ML Libraries & Frameworks",
+      "level": "Master",
+      "icon": "",
+      "keywords": [
+        "Scikit-learn",
+        "Pandas",
+        "NumPy",
+        "Matplotlib",
+        "Transformers"
+      ]
+    }
+  ],
+  
   "volunteer": [
     {
       "organization": "SocInfo’22 Conference",
@@ -202,38 +262,7 @@
       "summary": "Identified relevant publications to the community and invited their authors to discuss their papers. Also, reviewed the presentation content and facilitated the talks at the event."
     }
   ],
-   "education": [
-    {
-      "institution": "Toronto Metropolitan University",
-      "location": "Toronto, Canada",
-      "area": "Electrical & Computer Engineering",
-      "studyType": "Ph.D.",
-      "startDate": "2019-09",
-      "endDate": "2023-07",
-      "score": "",
-      "courses": []
-    },
-    {
-      "institution": "University of New Brunswick",
-      "location": "Fredricton, Canada",
-      "area": "Computer Science",
-      "studyType": "M.Sc.",
-      "startDate": "2013-09",
-      "endDate": "2016-05",
-      "score": "",
-      "courses": []
-    },
-    {
-      "institution": "Azad University of Tehran, North Branch",
-      "location": "Tehran, Iran",
-      "area": "Software Engineering",
-      "studyType": "B.Sc.",
-      "startDate": "2008-09",
-      "endDate": "2012-08",
-      "score": "",
-      "courses": []
-    }
-  ],
+  
   "awards": [
     {
       "title": "Ontario Graduate Award (OGS)",
@@ -274,21 +303,21 @@
   "certificates": [
     {
       "name": "Designing Semantic Technology Proof_of_Concept",
-      "date": "2018-09",
+      "date": "2018",
       "issuer": "Ontotext",
       "url": "",
       "icon": ""
     },
     {
       "name": "DataRobot Essentials for RBC",
-      "date": "2018-04",
+      "date": "2018",
       "issuer": "DataRobot",
       "url": "",
       "icon": ""
     },
     {
       "name": "HDP Developer: Enterprise Apache Spark ",
-      "date": "2017-02",
+      "date": "2017",
       "issuer": "Hortonworks",
       "url": "",
       "icon": ""
@@ -331,33 +360,7 @@
       "summary": "By Mahdavimoghaddam, Jalehsadat and Krishnaswamy, Niranjan and Bagheri, Ebrahim."
     }
   ],
-  "skills": [
-    {
-      "name": "Language and Tools",
-      "level": "Master",
-      "icon": "",
-      "keywords": [
-        "Python",
-        "NoSQL (MongoDB)",
-        "SQL(MySQL, SQL Server, Teradata)",
-        "Git",
-        "R"
-      ]
-    },
-    {
-      "name": "ML Libraries & Frameworks",
-      "level": "Master",
-      "icon": "",
-      "keywords": [
-        "Scikit-learn",
-        "Pandas",
-        "NumPy",
-        "Matplotlib",
-        "Transformers"
-      ]
-    }
-    
-  ],
+
   "languages": [
     {
       "language": "English",
@@ -368,42 +371,6 @@
       "language": "Persian",
       "fluency": "Native Speaker",
       "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
     }
   ]
 }
