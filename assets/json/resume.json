@@ -145,6 +145,31 @@
         "Matplotlib",
         "Transformers"
       ]
+    },
+    {
+      "name": "Data and Predictive Analytics",
+      "level": "Master",
+      "icon": "",
+      "keywords": [
+        "SVM",
+        "Decision Trees",
+        "LDA",
+        "Time Series Analysis",
+        "Neural Networks",
+        "Natural Language Processing"
+      ]
+    },
+      {
+      "name": "Soft Skills",
+      "level": "Master",
+      "icon": "",
+      "keywords": [
+        "Analytical Thinking",
+        "Communication",
+        "Leadership Skills",
+        "Time Management",
+        "Problem Solving"
+      ]
     }
   ],
   
