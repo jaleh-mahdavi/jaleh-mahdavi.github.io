@@ -23,13 +23,22 @@
     ]
   },
   "work": [
+      {
+      "name": "University of Toronto",
+      "position": "AI Research Scientist",
+      "url": "",
+      "startDate": "2023-07",
+      "endDate": "Present",
+       "summary": "Lead research initiatives leveraging machine learning to address challenges in information retrieval, natural language processing, and user recommendation systems",
+      "highlights": []
+    },
     {
       "name": "Home",
       "position": "Maternity Leave",
       "url": "",
       "startDate": "2023-08",
-      "endDate": "Present",
-       "summary": "Took maternity leave to care for my newborn; now re-engaging with full-time work and ready to bring fresh energy and perspective to new opportunities.",
+      "endDate": "2025-06",
+       "summary": "Took maternity leave to care for my newborn.",
       "highlights": []
     },
     {
