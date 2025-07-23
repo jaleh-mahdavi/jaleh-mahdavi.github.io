@@ -23,7 +23,7 @@ Peer Review Activities
 * **Information Processing and Management Journal (IP&M)**, 2021.
 * **Mining Actionable Insights from Social Networks (MAISoN)**, October 19-23, 2020, Ireland.
 * **EVOKE CASCON 2020**, November 10-13, 2020, Canada.
-* Multidisciplinary International Symposium on Disinformation in Open Online Media (MISDOOM), October 26-27, 2020, Netherlands.
+* **Multidisciplinary International Symposium on Disinformation in Open Online Media (MISDOOM)**, October 26-27, 2020, Netherlands.
 <br/>
 
 
